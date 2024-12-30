@@ -50,3 +50,10 @@ site
 # IntelliJ
 /.idea
 *.iml
+
+# Backstage-specific build and cache
+/backstage-cli
+/.backstage
+
+# Local configurations and local packages
+yarn.lock

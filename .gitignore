@@ -28,8 +28,6 @@ node_modules/
 .env
 .env.test
 
-# Build output
-dist
 # Commenting out dist-types to allow tracking
 # dist-types 
 

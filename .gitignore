@@ -30,7 +30,8 @@ node_modules/
 
 # Build output
 dist
-dist-types
+# Commenting out dist-types to allow tracking
+# dist-types 
 
 # Temporary change files created by Vim
 *.swp
